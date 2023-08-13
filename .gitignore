@@ -1,6 +1,6 @@
-.*
+.*set
 !.gitignore
 !.readthedocs.yml
-_build/
-check50/
-compare50/
+_建造/
+检查50/
+比较50/
